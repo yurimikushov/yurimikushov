@@ -4,4 +4,4 @@
 - 😍 I have a huge interest in creating and programming an user interfaces
 - 😋 Now I'm trying to start developing a frontend apps professionally
 
-Skills: REACT / REDUX / MOBX / HTML5 / CSS3 / JS / SCSS
+Skills: TS / JS / REACT / REDUX / REDUX-THUNK / REDUX-SAGA / HTML5 / CSS3 / SCSS
