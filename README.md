@@ -1,7 +1,6 @@
 ### Hi 👋, I'm Yuri
 
-- 😵 I have been developing and supporting a software products running on the 1C:Enterprise platform for about 3 years
-- 😍 I have a huge interest in programming an user interfaces
-- 😋 And now I develop a frontend apps
+I was develop and support a software products running on the 1C:Enterprise platform for about 3 years.
+I got that I very enjoy UI programming. That's why I develop frontend apps.
 
-Skills: TS / JS / REACT / REDUX / REDUX-THUNK / REDUX-SAGA / HTML5 / CSS3 / SCSS
+Skills: TS / REACT / REDUX-TOOLKIT / REDUX-SAGA / HTML5 / CSS3 / SCSS
